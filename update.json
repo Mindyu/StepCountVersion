@@ -1,5 +1,5 @@
 {
   "url":"https://github.com/Mindyu/StepCountVersion/blob/master/app-release.apk?raw=true",
-  "versionCode":2,
-  "updateMessage":"1. 适配 Android 8.0\n2. 适配 Android 9.0\n3. 新增软件更新功能"
+  "versionCode":3,
+  "updateMessage":"1. 新增健康资讯浏览进度条显示\n2.新增健康资讯搜索功能\n3. 新增软件更新功能"
 }
